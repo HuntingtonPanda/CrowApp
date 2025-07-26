@@ -1,3 +1,13 @@
+npm run dev
+click on: http://localhost:3000
+
+
+backend:
+./pocketbase serve
+
+<-- THIS IS ESSENTIALLY LIKE SQLite and we'll use it for now for convience but we can migrate later !-->
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
